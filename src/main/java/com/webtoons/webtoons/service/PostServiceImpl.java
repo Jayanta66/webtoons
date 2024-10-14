@@ -16,12 +16,7 @@ import java.util.Map;
 
 @Service
 public class PostServiceImpl implements PostService {
-
-	
-//	https://animemangatoon.com/top-castle-swimmer-characters/
 		
- //   String baseUrl = "https://jsonplaceholder.typicode.com/";
-	
     String baseUrl = "https://animemangatoon.com/top-castle-swimmer-characters/";
 
 
